@@ -41,7 +41,7 @@ h2{
     justify-content: center;
 }
 #butt{
-    width: 50%;
+    width: 90%;
     height: 30px;
     margin: 20px 0;
     background: silver;
@@ -50,6 +50,7 @@ h2{
     width: 100%;
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-around;
 }
 .divTitle{
     width: 18%;
